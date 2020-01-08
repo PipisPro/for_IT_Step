@@ -1,0 +1,7 @@
+D:\Wasser\CW\C#\January\08\Pr_1\Pr_1\bin\Debug\Pr_1.exe.config
+D:\Wasser\CW\C#\January\08\Pr_1\Pr_1\bin\Debug\Pr_1.exe
+D:\Wasser\CW\C#\January\08\Pr_1\Pr_1\bin\Debug\Pr_1.pdb
+D:\Wasser\CW\C#\January\08\Pr_1\Pr_1\obj\Debug\Pr_1.csprojAssemblyReference.cache
+D:\Wasser\CW\C#\January\08\Pr_1\Pr_1\obj\Debug\Pr_1.csproj.CoreCompileInputs.cache
+D:\Wasser\CW\C#\January\08\Pr_1\Pr_1\obj\Debug\Pr_1.exe
+D:\Wasser\CW\C#\January\08\Pr_1\Pr_1\obj\Debug\Pr_1.pdb

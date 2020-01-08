@@ -1,0 +1,6 @@
+D:\Wasser\CW\C#\January\07\pr1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Wasser\CW\C#\January\07\pr1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Wasser\CW\C#\January\07\pr1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\Wasser\CW\C#\January\07\pr1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Wasser\CW\C#\January\07\pr1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Wasser\CW\C#\January\07\pr1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

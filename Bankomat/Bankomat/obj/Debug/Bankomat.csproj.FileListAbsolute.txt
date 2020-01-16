@@ -1,0 +1,10 @@
+D:\Wasser\CW\C#\January\16\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+D:\Wasser\CW\C#\January\16\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+D:\Wasser\CW\C#\January\16\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+D:\Wasser\CW\C#\January\16\Bankomat\Bankomat\bin\Debug\ClassLib.dll
+D:\Wasser\CW\C#\January\16\Bankomat\Bankomat\bin\Debug\ClassLib.pdb
+D:\Wasser\CW\C#\January\16\Bankomat\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+D:\Wasser\CW\C#\January\16\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+D:\Wasser\CW\C#\January\16\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CopyComplete
+D:\Wasser\CW\C#\January\16\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+D:\Wasser\CW\C#\January\16\Bankomat\Bankomat\obj\Debug\Bankomat.pdb

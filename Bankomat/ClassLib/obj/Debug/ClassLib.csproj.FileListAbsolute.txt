@@ -1,0 +1,6 @@
+D:\Wasser\CW\C#\January\16\Bankomat\ClassLib\bin\Debug\ClassLib.dll
+D:\Wasser\CW\C#\January\16\Bankomat\ClassLib\bin\Debug\ClassLib.pdb
+D:\Wasser\CW\C#\January\16\Bankomat\ClassLib\obj\Debug\ClassLib.csprojAssemblyReference.cache
+D:\Wasser\CW\C#\January\16\Bankomat\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+D:\Wasser\CW\C#\January\16\Bankomat\ClassLib\obj\Debug\ClassLib.dll
+D:\Wasser\CW\C#\January\16\Bankomat\ClassLib\obj\Debug\ClassLib.pdb

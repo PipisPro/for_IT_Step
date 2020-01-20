@@ -1,0 +1,7 @@
+D:\Wasser\CW\C#\January\20\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Wasser\CW\C#\January\20\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Wasser\CW\C#\January\20\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Wasser\CW\C#\January\20\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Wasser\CW\C#\January\20\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Wasser\CW\C#\January\20\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Wasser\CW\C#\January\20\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

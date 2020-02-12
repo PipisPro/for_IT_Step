@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Wasser\\CW\\C#\\hw\\bank\\Bank\\Bank\\Bank.csproj": {}
+  },
+  "projects": {
+    "D:\\Wasser\\CW\\C#\\hw\\bank\\Bank\\Bank\\Bank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Wasser\\CW\\C#\\hw\\bank\\Bank\\Bank\\Bank.csproj",
+        "projectName": "Bank",
+        "projectPath": "D:\\Wasser\\CW\\C#\\hw\\bank\\Bank\\Bank\\Bank.csproj",
+        "packagesPath": "C:\\Users\\АмруллаевС\\.nuget\\packages\\",
+        "outputPath": "D:\\Wasser\\CW\\C#\\hw\\bank\\Bank\\Bank\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\АмруллаевС\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Wasser\\CW\\C#\\hw\\bank\\Bank\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "D:\\Wasser\\CW\\C#\\hw\\bank\\Bank\\ClassLibrary1\\ClassLibrary1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Wasser\\CW\\C#\\hw\\bank\\Bank\\ClassLibrary1\\ClassLibrary1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Wasser\\CW\\C#\\hw\\bank\\Bank\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "D:\\Wasser\\CW\\C#\\hw\\bank\\Bank\\ClassLibrary1\\ClassLibrary1.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
